@@ -1,5 +1,5 @@
 <h1>Hi, I'm Cody! <br/><a href="https://www.linkedin.com/in/cody-barrett-13550015b">Cybersecurity Professional</h1>
-
+<h2><img src="https://tryhackme-badges.s3.amazonaws.com/Codbar.png" alt="TryHackMe"></h2>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -17,7 +17,6 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
