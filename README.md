@@ -1,7 +1,8 @@
 <h1>Hi, I'm Cody! <br/><a href="https://www.linkedin.com/in/cody-barrett-13550015b">InfoSec Professional</h1>
 <h2><img src="https://tryhackme-badges.s3.amazonaws.com/Codbar.png" alt="TryHackMe"></h2>
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 My Projects:</h2>
 
+<!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -15,6 +16,7 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+-->
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [A7X Merch Notifier](https://github.com/CBarrettPortfolio/shopping-site-web-scraper)
