@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cody! <br/><a href="https://www.linkedin.com/in/cody-barrett-13550015b">Cybersecurity Professional</h1>
+<h1>Hi, I'm Cody! <br/><a href="https://www.linkedin.com/in/cody-barrett-13550015b">InfoSec Professional</h1>
 <h2><img src="https://tryhackme-badges.s3.amazonaws.com/Codbar.png" alt="TryHackMe"></h2>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
