@@ -18,7 +18,6 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 -->
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [A7X Merch Notifier](https://github.com/CBarrettPortfolio/shopping-site-web-scraper)
   - [Battle Royale Simulator Project](https://github.com/CBarrettPortfolio/HungerGamesApplicationV1.0)
 <h2> 🤳 Connect with me:</h2>
