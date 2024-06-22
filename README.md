@@ -18,7 +18,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [A7X Merch Notifier](https://github.com/CBarrettPortfolio/shopping-site-web-scraper)
-  - [Link to Battle Royale Simulator Project](https://github.com/CBarrettPortfolio/HungerGamesApplicationV1.0)
+  - [Battle Royale Simulator Project](https://github.com/CBarrettPortfolio/HungerGamesApplicationV1.0)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
