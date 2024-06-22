@@ -20,6 +20,8 @@
 - <b>Python</b>
   - [A7X Merch Notifier](https://github.com/CBarrettPortfolio/shopping-site-web-scraper)
   - [Battle Royale Simulator Project](https://github.com/CBarrettPortfolio/HungerGamesApplicationV1.0)
+- <b>Certified Ethical Hacking</b>
+  - [Data Gathering and Footprinting on a Targeted Web Site](https://github.com/CBarrettPortfolio/Data-Gathering-and-Footprinting-on-a-Targeted-Web-Site)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
