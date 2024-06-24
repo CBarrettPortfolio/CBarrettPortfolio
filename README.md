@@ -18,6 +18,7 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 -->
 - <b>Python</b>
+  - [Text Based Game](https://github.com/CBarrettPortfolio/TextBasedGame/tree/main)
   - [A7X Merch Notifier](https://github.com/CBarrettPortfolio/shopping-site-web-scraper)
   - [Battle Royale Simulator Project](https://github.com/CBarrettPortfolio/HungerGamesApplicationV1.0)
 - <b>Certified Ethical Hacking</b>
