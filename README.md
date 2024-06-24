@@ -25,6 +25,8 @@
   - [Data Gathering and Footprinting on a Targeted Web Site](https://github.com/CBarrettPortfolio/Data-Gathering-and-Footprinting-on-a-Targeted-Web-Site)
 - <b>Digital Forensics</b>
   - [Detecting Malware and Unauthorized Devices](https://github.com/CBarrettPortfolio/Detecting-Malware-and-Unauthorized-Devices/blob/main/README.md)
+- <b>Security</b>
+  - [Configuring Firewalls](https://github.com/CBarrettPortfolio/firewall-config)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
